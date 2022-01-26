@@ -1,4 +1,4 @@
-Hello I am Parnavi (She/Her)
+## Hello World!👋 I am Parnavi (She/Her)
 
 I am a computer engineering student, open source enthusiast and an amateur astronomer, deeply interested in AI/ML and Algorithms.
 I have experience of full stack development and android development.\
@@ -21,7 +21,6 @@ Programming Languages:\
 Connect with me on:\
 <a href="https://www.linkedin.com/in/parnavi-kulkarni/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="21px"/></a>
 \
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParnaviKulkarni&show_icons=true&theme=nightowl)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParnaviKulkarni&theme=nightowl)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParnaviKulkarni&show_icons=true&theme=nightowl)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParnaviKulkarni&theme=nightowl)](https://git.io/streak-stats)
 
-Wednesday, 26 January, 21:26 GMT+5:30
+Wednesday, 26 January, 21:30 GMT+5:30
