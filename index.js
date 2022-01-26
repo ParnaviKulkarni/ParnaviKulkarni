@@ -7,6 +7,8 @@ let DATA = {
   name: 'Parnavi',
   pronoun1: 'She',
   pronoun2: 'Her',
+  username: 'ParnaviKulkarni',
+  linkedin: 'parnavi-kulkarni',
   date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',
