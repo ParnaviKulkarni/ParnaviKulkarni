@@ -16,11 +16,13 @@ I have experience of full stack development and android development.\
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParnaviKulkarni&layout=compact&theme=nightowl)](https://github.com/parnavikulkarni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParnaviKulkarni&layout=compact&theme=tokyonight_duo)](https://github.com/parnavikulkarni/github-readme-stats)
 
 ### Connect with me on:\
 <a href="https://www.linkedin.com/in/parnavi-kulkarni/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="21px"/></a>
 \
-![GitHub stats]((https://github-readme-stats.vercel.app/api?username=ParnaviKulkarni&show_icons=true&theme=tokyonight_duo)=600*400)[![GitHub Streak](((https://github-readme-streak-stats.herokuapp.com/?user=ParnaviKulkarni&theme=nightowl)](https://git.io/streak-stats))=600*400)
+\
+![GitHub stats]((https://github-readme-stats.vercel.app/api?username=ParnaviKulkarni&show_icons=true&theme=tokyonight_duo)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParnaviKulkarni&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-Wednesday, 26 January, 21:49 GMT+5:30
+Wednesday, 26 January, 21:52 GMT+5:30
