@@ -1,4 +1,4 @@
-Hello I am Parnavi (She/Her)\
+Hello I am Parnavi (She/Her)
 
 I am a computer engineering student, open source enthusiast and an amateur astronomer, deeply interested in AI/ML and Algorithms.
 I have experience of full stack development and android development.\
@@ -16,12 +16,12 @@ Programming Languages:\
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParnaviKulkarni&layout=compact)](https://github.com/parnavikulkarni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParnaviKulkarni&layout=compact&theme=nightowl)](https://github.com/parnavikulkarni/github-readme-stats)
 
-
-Connect with me on:
+Connect with me on:\
 <a href="https://www.linkedin.com/in/parnavi-kulkarni/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="21px"/></a>
+\
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParnaviKulkarni&show_icons=true&theme=nightowl)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParnaviKulkarni&theme=nightowl)](https://git.io/streak-stats)
 
-Wednesday, 26 January, 21:23 GMT+5:30
+Wednesday, 26 January, 21:26 GMT+5:30
