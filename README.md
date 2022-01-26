@@ -1,5 +1,5 @@
 Hello I am Parnavi (She/Her)\
-<hr>
+
 I am a computer engineering student, open source enthusiast and an amateur astronomer, deeply interested in AI/ML and Algorithms.
 I have experience of full stack development and android development.\
 Technical Skills:\
@@ -24,4 +24,4 @@ Connect with me on:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParnaviKulkarni&show_icons=true&theme=nightowl)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParnaviKulkarni&theme=nightowl)](https://git.io/streak-stats)
 
-Wednesday, 26 January, 21:21 GMT+5:30
+Wednesday, 26 January, 21:23 GMT+5:30
