@@ -12,9 +12,11 @@ Programming Languages:\
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)\
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)\
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=parnavikulkarni&show_icons=true&theme=radical)
+
 Connect with me on:
 
 
 
-Wednesday, 26 January, 20:45 GMT+5:30
+Wednesday, 26 January, 20:53 GMT+5:30
