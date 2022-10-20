@@ -42,13 +42,13 @@ Here's a bit more about myself...
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParnaviKulkarni&layout=compact&theme=tokyonight)](https://github.com/parnavikulkarni/github-readme-stats)
-
+---
 ### Connect with me on:
 <a href="https://www.linkedin.com/in/parnavi-kulkarni/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height="30px"/></a>
 <a href="https://www.kaggle.com/parnavikulkarni"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" width="100px" height="30px"/></a>
 <a href="https://www.researchgate.net/profile/Parnavi_Kulkarni"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" width="100px" height="30px"/></a>
 <a href="https://twitter.com/ParnaviKulkarni"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" width="100px" height="30px"/></a>
 </span>
-\
-\
+---
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParnaviKulkarni&theme=tokyonight" alt="GitHub Streak"/>  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ParnaviKulkarni&theme=tokyonight" alt="GitHub Stats"/>
