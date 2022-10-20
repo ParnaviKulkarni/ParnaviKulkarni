@@ -48,7 +48,8 @@ Scripting languages:
 <a href="https://www.kaggle.com/parnavikulkarni"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" width="100px" height="30px"/></a>
 <a href="https://www.researchgate.net/profile/Parnavi_Kulkarni"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" width="100px" height="30px"/></a>
 <a href="https://twitter.com/ParnaviKulkarni"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" width="100px" height="30px"/></a>
-\
-\
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParnaviKulkarni&theme=tokyonight)](https://git.io/streak-stats) [![Github Stats](https://github-readme-stats.vercel.app/api?username=ParnaviKulkarni&theme=tokyonight)](https://github.com/ParnaviKulkarni) 
 </span>
+\
+\
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParnaviKulkarni&theme=tokyonight)](https://git.io/streak-stats)[![Github Stats](https://github-readme-stats.vercel.app/api?username=ParnaviKulkarni&theme=tokyonight)](https://github.com/ParnaviKulkarni) 
+
