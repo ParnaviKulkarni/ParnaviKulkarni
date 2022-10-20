@@ -51,5 +51,4 @@ Here's a bit more about myself...
 </span>
 \
 \
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParnaviKulkarni&theme=tokyonight)](https://git.io/streak-stats)[![Github Stats](https://github-readme-stats.vercel.app/api?username=ParnaviKulkarni&theme=tokyonight)](https://github.com/ParnaviKulkarni) 
-
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParnaviKulkarni&theme=tokyonight" alt="GitHub Streak"/>  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ParnaviKulkarni&theme=tokyonight" alt="GitHub Stats"/>
