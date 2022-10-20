@@ -20,9 +20,7 @@ I have experience of full stack development and android development.\
 
 ### Connect with me on:\
 <a href="https://www.linkedin.com/in/parnavi-kulkarni/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="21px"/></a>
+<a href="https://twitter.com/ParnaviKulkarni"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/twitter.svg" width="21px"/></a>
 \
 \
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ParnaviKulkarni&theme=tokyonight_duo)](https://github.com/ParnaviKulkarni)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParnaviKulkarni&theme=tokyonight_duo)](https://git.io/streak-stats)
-
-Wednesday, 26 January, 22:02 GMT+5:30
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ParnaviKulkarni&theme=tokyonight_duo)](https://github.com/ParnaviKulkarni) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParnaviKulkarni&theme=tokyonight_duo)](https://git.io/streak-stats)
